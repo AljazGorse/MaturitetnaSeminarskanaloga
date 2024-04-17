@@ -10,4 +10,4 @@ Aplikacija se lahko zažene tudi v Ukaznem pozivu (cmd) z ukazom:
 java -jar lokacija_datoteke_Minolovec.jar (primer: java -jar C:\Users\Aljaž\Desktop\Minolovec.jar)
 ali pri starejših verzijah zagonskega okolja z ukazom:
 lokacija_datoteke_java.exe -jar lokacija_datoteke_Minolovec.jar (primer "C:\Program Files\Java\jdk-22\bin\java.exe" -jar C:\Users\Aljaž\Desktop\Minolovec.jar)
-pri tem načinu se datoteka rezultatov shrani v mapo uporabnika (primer C:\Users\Aljaž\Rezultati.txt) 
+pri temu načinu se datoteka rezultatov shrani v mapo pozicije uporabnika v ukaznem pozivu
